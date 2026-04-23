@@ -112,7 +112,7 @@ Para a análise completa — incluindo sensibilidade, casos comparados e limita�
 
 ```
 "Predictive Analysis of Presidential Succession in Angola's Dominant-Party System",
-Dataset v1.0, Angola Succession Dataset, 2025.
+Dataset v1.0, Angola Succession Dataset, 2026.
 ```
 
 O GitHub reconhece automaticamente o ficheiro `CITATION.cff` — basta clicar em "Cite this repository".
