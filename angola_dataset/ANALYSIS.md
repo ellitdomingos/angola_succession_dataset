@@ -144,7 +144,7 @@ O que este dataset oferece não é uma resposta definitiva — é uma base para 
 
 ```
 "Predictive Analysis of Presidential Succession in Angola's Dominant-Party System",
-Dataset v1.0, Angola Succession Dataset, 2025.
+Dataset v1.0, Angola Succession Dataset, 2026.
 ```
 
 ## Licença
