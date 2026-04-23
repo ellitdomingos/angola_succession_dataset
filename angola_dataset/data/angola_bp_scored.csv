@@ -1,0 +1,103 @@
+id,nome,nome_curto,nascimento,idade_2025,sexo,posicao_bp,cargo_funcao,tem_score_detalhado,s_cargo,s_partido,s_seguranca,s_proximidade,s_burpol,s_trajetoria,s_militar,s_academia,s_perfil_int,s_idade,score_total_0_10,score_total_0_100,ranking
+manuel_homem,Manuel Gomes da Conceição Homem,Manuel Homem,1979,46,M,32,Ministro do Interior (desde 2024),True,9,7,9,6,9,8,0,8,6,10,7.2,72.0,1
+francisco_furtado,Francisco Pereira Furtado,Francisco Furtado,1958,67,M,78,Min. Estado – Casa de Segurança do PR,True,9,8,10,10,7,7,10,4,3,4,7.2,72.0,2
+mara_quiosa,Mara Regina da Silva Baptista Domingos Quiosa,Mara Quiosa,1980,45,F,2,Vice-Presidente MPLA (desde Dez 2024),True,9,9,3,9,10,8,0,6,4,10,6.8,68.0,3
+adão_de_almeida,Adão Francisco Correia de Almeida,Adão de Almeida,1979,46,M,4,Presidente Assembleia Nacional,True,9,8,2,9,7,9,0,8,6,10,6.8,68.0,4
+eugénio_laborinho,Eugénio César Laborinho,Eugénio Laborinho,1955,70,M,19,Ex-Ministro Interior (2019–2024) / Tenente-General,True,5,9,8,5,9,8,8,5,5,3,6.5,65.0,5
+vera_daves,Vera Esperança dos Santos Daves de Sousa,Vera Daves,1983,42,F,52,Ministra das Finanças,True,7,5,1,7,7,7,0,9,9,10,6.2,62.0,6
+carlos_feijó,Carlos Maria da Silva Feijó,Carlos Feijó,1963,62,M,11,Prof. Catedrático UAN / Ex-Chefe Casa Civil,True,5,7,2,7,6,7,0,10,8,7,5.9,59.0,7
+nunes_júnior,Manuel José Nunes Júnior,Nunes Júnior,~1963,62,M,33,Ministro da Economia e Planeamento,True,7,7,1,7,7,7,0,8,7,7,5.8,58.0,8
+ana_dias_lourenço,Ana Dias Lourenço,Ana Dias Lourenço,1960,65,F,BP,Ex-Ministra Planeamento / Candidata VP BAD,True,5,8,1,6,7,7,0,10,9,5,5.8,58.0,9
+paulo_pombolo,Paulo Pombolo,Paulo Pombolo,1962,63,M,3,Secretário-Geral MPLA,True,8,9,4,7,9,7,0,4,3,5,5.6,56.0,10
+rui_falcão_andrade,Rui Luís Falcão Pinto de Andrade,Rui Falcão Andrade,~1960,65,M,50,Procurador-Geral da República,True,8,7,3,7,7,6,0,8,5,5,5.6,56.0,11
+joana_lina,Joana Lina Ramos Baptista Cândido,Joana Lina,~1970,55,F,25,Governadora de Luanda (desde 2024),True,7,7,2,7,7,7,0,6,4,8,5.5,55.0,12
+tete_antónio,Tete António,Tete António,~1960,65,M,62,Ministro das Relações Exteriores,True,7,7,1,6,7,6,0,7,9,5,5.5,55.0,13
+manuel_augusto,Manuel Domingos Augusto,Manuel Augusto,~1958,67,M,63,Sec. Relações Internacionais BP,True,5,8,2,6,8,7,0,7,8,4,5.5,55.0,14
+bornito_de_sousa,Bornito de Sousa Baltazar Diogo,Bornito de Sousa,~1956,69,M,10,Ex-Vice-Presidente da República (2017–2022),True,5,8,2,6,7,7,0,9,7,3,5.4,54.0,15
+sílvia_lutucuta,Sílvia Paula Valentim Lutucuta,Sílvia Lutucuta,~1970,55,F,51,Ministra da Saúde,True,6,6,1,6,7,6,0,8,6,8,5.4,54.0,16
+pitra_da_costa_neto,António Domingos Pitra da Costa Neto,Pitra da Costa Neto,~1955,70,M,8,Membro BP / Ex-Ministro,True,4,9,3,4,7,7,5,5,4,3,5.1,51.0,17
+carolina_cerqueira,Carolina Cerqueira,Carolina Cerqueira,~1967,58,F,12,Ex-Presidente Assembleia Nacional (2017–2025),True,5,8,1,5,7,6,0,6,5,8,5.1,51.0,18
+mpinda_simão,Mpinda Simão,Mpinda Simão,~1965,60,M,43,Governador de Benguela,True,6,7,2,6,7,6,0,6,4,7,5.1,51.0,19
+archer_mangueira,Archer Mangueira (Augusto Archer de Sousa Mangueira),Archer Mangueira,~1960,65,M,60,Governador do Namibe / Ex-CMC,True,6,7,2,5,7,7,0,7,5,5,5.1,51.0,20
+esteves_hilário,Esteves Carlos Hilário,Esteves Hilário,~1965,60,M,80,Sec. Informação e Propaganda BP,True,6,7,1,6,8,6,0,6,4,7,5.1,51.0,21
+josé_c._da_rocha,José Carvalho da Rocha,José C. da Rocha,~1960,65,M,30,Ministro Telecomunicações e TIC,True,6,7,1,6,7,6,0,7,5,5,5.0,50.0,22
+gonçalves_muandumba,Gonçalves Manuel Muandumba,Gonçalves Muandumba,~1960,65,M,21,Sec. Organização e Inserção BP,True,6,8,2,6,8,6,0,5,3,5,4.9,49.0,23
+joão_liberdade,João Ernesto dos Santos (Liberdade),João Liberdade,~1958,67,M,28,Membro BP / Ministro Indústria e Comércio,True,6,8,1,6,7,6,0,6,5,4,4.9,49.0,24
+nádia_monteiro,Nádia Agostinho Monteiro,Nádia Monteiro,~1985,40,F,94,Sec. Administração e Finanças BP,True,5,5,1,5,7,5,0,7,4,10,4.9,49.0,25
+fernando_miala,Fernando Garcia Miala,Fernando Miala,1957,68,M,Fora BP,Ex-Chefe SINSE (afastado),True,2,7,9,2,3,6,9,4,4,3,4.9,49.0,26
+fernando_nandó,Fernando da Piedade Dias dos Santos (Nandó),Fernando Nandó,~1952,73,M,20,Ex-Presidente Assembleia Nacional / Ex-PM,True,4,10,3,4,7,8,0,6,5,1,4.8,48.0,27
+pedro_morais_neto,Pedro de Morais Neto,Pedro Morais Neto,~1965,60,M,46,Membro Secretariado BP,True,5,7,2,5,8,5,0,6,3,7,4.8,48.0,28
+joão_martins_jú,João de Almeida Azevedo Martins (Jú),João Martins (Jú),~1955,70,M,26,Sec. Assuntos Políticos e Eleitorais BP,True,6,9,2,5,8,6,0,5,3,3,4.7,47.0,29
+mário_sequeira,Mário António de Sequeira e Carvalho,Mário Sequeira,~1950,75,M,35,Sec. Antigos Combatentes e Veteranos BP,True,5,10,3,4,7,5,5,4,2,1,4.6,46.0,30
+loti_nolika,Loti Nolika,Loti Nolika,~1960,65,M,55,Governador do Zaire,True,6,7,2,5,7,6,0,5,3,5,4.6,46.0,31
+mário_p._andrade,Mário Pinto de Andrade,Mário P. Andrade,~1960,65,M,36,Sec. Reforma Estado / Autarquias BP,True,5,7,1,5,8,5,0,6,3,5,4.5,45.0,32
+pedro_sebastião_teta,Pedro Sebastião Teta,Pedro Sebastião Teta,~1960,65,M,48,Sec. TIC BP,True,5,7,1,5,8,5,0,6,3,5,4.5,45.0,33
+dolina_tchinhama,Dolina Nassocópia Miguel Tchinhama,Dolina Tchinhama,~1965,60,F,16,Membro BP / Ministra,True,6,6,1,5,6,5,0,5,3,7,4.4,44.0,34
+ângela_bragança,Maria Ângela Teixeira A. S. Bragança,Ângela Bragança,~1960,65,F,39,Sec. Política de Quadros BP,True,5,7,1,5,8,5,0,5,3,5,4.4,44.0,35
+idalina_valente,Maria Idalina de Oliveira Valente,Idalina Valente,N/D,N/D,F,42,Sec. Política Económica e Social BP,True,5,6,1,5,8,5,0,6,3,5,4.4,44.0,36
+justino_capapinha,Job Castelo Capapinha (Justino),Justino Capapinha,~1985,40,M,57,1.º Secretário Nacional da JMPLA,True,5,4,1,5,6,5,0,5,3,10,4.4,44.0,37
+ernesto_muangala,Ernesto Muangala,Ernesto Muangala,~1960,65,M,18,Membro BP / Ministro,True,6,7,1,5,6,5,0,5,3,5,4.3,43.0,38
+irene_neto,Irene Alexandra da Silva Neto,Irene Neto,~1960,65,F,22,Membro BP,True,4,7,1,4,6,4,0,6,4,5,4.1,41.0,39
+jorge_dombolo,Jorge Inocêncio Dombolo,Jorge Dombolo,~1960,65,M,29,Ex-Sec. Organização BP / Membro,True,4,7,1,4,7,5,0,5,3,5,4.1,41.0,40
+ana_paula_sacramento,Ana Paula do Sacramento Neto,Ana Paula Sacramento,~1965,60,F,7,Membro BP / Deputada,True,4,6,1,4,6,4,0,5,3,7,4.0,40.0,41
+joaquim_reis_jr.,Joaquim António Carlos dos Reis Júnior,Joaquim Reis Jr.,N/D,N/D,M,77,Sec. BP / Membro,True,5,6,1,4,7,4,0,5,3,5,4.0,40.0,42
+maricel_capamma,Maricel Marinho da Silva Capamma,Maricel Capamma,N/D,N/D,F,41,Membro BP (saiu secretariado 2024),True,4,5,1,4,6,4,0,5,3,5,3.7,37.0,43
+carla_ribeiro,Carla Maria Leitão Ribeiro de Sousa,Carla Ribeiro,N/D,N/D,F,68,Membro BP (saiu secretariado 2024),True,4,5,1,4,6,4,0,5,3,5,3.7,37.0,44
+bento_bento,Bento Joaquim S. Francisco Bento (Bento Bento),Bento Bento,~1960,65,M,9,Membro BP,True,3,6,1,4,6,4,0,4,2,5,3.5,35.0,45
+américo_cuononoca,Américo António Cuononoca,Américo Cuononoca,N/D,N/D,M,5,Membro BP,False,3,5,1,3,5,3,0,4,2,5,3.1,31.0,46
+ana_celeste_januário,Ana Celeste Cardoso Januário,Ana Celeste Januário,N/D,N/D,F,6,Membro BP,False,3,5,1,3,5,3,0,4,2,5,3.1,31.0,47
+daniel_félix_neto,Daniel Félix Neto,Daniel Félix Neto,N/D,N/D,M,13,Membro BP,False,3,5,1,3,5,3,0,4,2,5,3.1,31.0,48
+crispiniano_santos,Crispiniano Vivaldino E. dos Santos,Crispiniano Santos,N/D,N/D,M,14,Membro BP,False,3,5,1,3,5,3,0,4,2,5,3.1,31.0,49
+dionísio_da_fonseca,Dionísio Manuel da Fonseca,Dionísio da Fonseca,N/D,N/D,M,15,Membro BP,False,3,5,1,3,5,3,0,4,2,5,3.1,31.0,50
+emília_carlota_dias,Emília Carlota Dias,Emília Carlota Dias,N/D,N/D,F,17,Membro BP,False,3,5,1,3,5,3,0,4,2,5,3.1,31.0,51
+isaac_dos_anjos,Isaac Francisco Maria dos Anjos,Isaac dos Anjos,N/D,N/D,M,23,Membro BP,False,3,5,1,3,5,3,0,4,2,5,3.1,31.0,52
+joana_tomás,Joana Domingos dos Santos Filipe Tomás,Joana Tomás,N/D,N/D,F,24,Membro BP,False,3,5,1,3,5,3,0,4,2,5,3.1,31.0,53
+joão_diogo_gaspar,João Diogo Gaspar,João Diogo Gaspar,N/D,N/D,M,27,Membro BP,False,3,5,1,3,5,3,0,4,2,5,3.1,31.0,54
+luís_fonseca_nunes,Luís Manuel da Fonseca Nunes,Luís Fonseca Nunes,N/D,N/D,M,31,Membro BP,False,3,5,1,3,5,3,0,4,2,5,3.1,31.0,55
+manuel_pedro_chaves,Manuel Pedro Chaves,Manuel Pedro Chaves,N/D,N/D,M,34,Membro BP,False,3,5,1,3,5,3,0,4,2,5,3.1,31.0,56
+marcos_nhunga,Marcos Alexandre Nhunga,Marcos Nhunga,N/D,N/D,M,37,Membro BP,False,3,5,1,3,5,3,0,4,2,5,3.1,31.0,57
+marcy_lopes,Marcy Cláudio Lopes,Marcy Lopes,N/D,N/D,M,38,Membro BP,False,3,5,1,3,5,3,0,4,2,5,3.1,31.0,58
+antonieta_sabinda,Maria Antonieta Josefina Sabinda,Antonieta Sabinda,N/D,N/D,F,40,Membro BP,False,3,5,1,3,5,3,0,4,2,5,3.1,31.0,59
+norberto_kuata,Norberto Fernando dos Santos (Kuata Kanawa),Norberto Kuata,N/D,N/D,M,44,Membro BP,False,3,5,1,3,5,3,0,4,2,5,3.1,31.0,60
+paula_coelho,Paula Cristina Domingos Francisco Coelho,Paula Coelho,N/D,N/D,F,45,Membro BP,False,3,5,1,3,5,3,0,4,2,5,3.1,31.0,61
+pedro_mutindi,Pedro Makita Armando Júlia (Pedro Mutindi),Pedro Mutindi,N/D,N/D,M,47,Membro BP,False,3,5,1,3,5,3,0,4,2,5,3.1,31.0,62
+pereira_alfredo,Pereira Alfredo,Pereira Alfredo,N/D,N/D,M,49,Membro BP,False,3,5,1,3,5,3,0,4,2,5,3.1,31.0,63
+virgílio_tyova,Virgílio da Ressurreição Bernardo Adriano Tyova,Virgílio Tyova,N/D,N/D,M,53,Membro BP,False,3,5,1,3,5,3,0,4,2,5,3.1,31.0,64
+virgílio_f._pereira,Virgílio Ferreira de Fontes Pereira,Virgílio F. Pereira,N/D,N/D,M,54,Membro BP,False,3,5,1,3,5,3,0,4,2,5,3.1,31.0,65
+adriano_mendes,Adriano Mendes de Carvalho,Adriano Mendes,N/D,N/D,M,56,Membro BP,False,3,5,1,3,5,3,0,4,2,5,3.1,31.0,66
+nuno_mahapi_dala,Nuno Mahapi Dala,Nuno Mahapi Dala,N/D,N/D,M,58,Membro BP,False,3,5,1,3,5,3,0,4,2,5,3.1,31.0,67
+gerdina_didalewa,Gerdina Didalewa,Gerdina Didalewa,N/D,N/D,F,59,Membro BP,False,3,5,1,3,5,3,0,4,2,5,3.1,31.0,68
+josé_martins,José Martins,José Martins,N/D,N/D,M,61,Membro BP,False,3,5,1,3,5,3,0,4,2,5,3.1,31.0,69
+aia-eza_troso,Aia-Eza Gomes da Silva Troso,Aia-Eza Troso,N/D,N/D,F,64,Membro BP,False,3,5,1,3,5,3,0,4,2,5,3.1,31.0,70
+ana_paula_chantre,Ana Paula Chantre Luna de Carvalho,Ana Paula Chantre,N/D,N/D,F,65,Membro BP,False,3,5,1,3,5,3,0,4,2,5,3.1,31.0,71
+ângela_diogo,Ângela Maria Botelho de Carvalho Diogo,Ângela Diogo,N/D,N/D,F,66,Membro BP,False,3,5,1,3,5,3,0,4,2,5,3.1,31.0,72
+angélica_inhungo,Angélica Nené Curita Inhungo,Angélica Inhungo,N/D,N/D,F,67,Membro BP,False,3,5,1,3,5,3,0,4,2,5,3.1,31.0,73
+carmen_vandunem,Carmen Ivelize VanDunem do Sacramento Neto,Carmen VanDunem,N/D,N/D,F,69,Membro BP,False,3,5,1,3,5,3,0,4,2,5,3.1,31.0,74
+celeste_adolfo,Celeste Elavoco David Adolfo,Celeste Adolfo,N/D,N/D,F,70,Membro BP,False,3,5,1,3,5,3,0,4,2,5,3.1,31.0,75
+dalva_allen,Dalva Maurícia Ringote Allen,Dalva Allen,N/D,N/D,F,71,Membro BP,False,3,5,1,3,5,3,0,4,2,5,3.1,31.0,76
+elizabeth_chiwissa,Elizabeth Claudina Rufino Chiwissa,Elizabeth Chiwissa,N/D,N/D,F,72,Membro BP,False,3,5,1,3,5,3,0,4,2,5,3.1,31.0,77
+emília_panjimba,Emília da Conceição Panjimba,Emília Panjimba,N/D,N/D,F,73,Membro BP,False,3,5,1,3,5,3,0,4,2,5,3.1,31.0,78
+esmeralda_mendonça,Esmeralda Bravo Conde da Silva Mendonça,Esmeralda Mendonça,N/D,N/D,F,74,Membro BP,False,3,5,1,3,5,3,0,4,2,5,3.1,31.0,79
+esperança_da_costa,Esperança Maria Eduardo Francisco da Costa,Esperança da Costa,N/D,N/D,F,75,Membro BP,False,3,5,1,3,5,3,0,4,2,5,3.1,31.0,80
+hemingarda_fernandes,Hemingarda João Fernandes,Hemingarda Fernandes,N/D,N/D,F,76,Membro BP,False,3,5,1,3,5,3,0,4,2,5,3.1,31.0,81
+gildo_matias,Gildo Matias José,Gildo Matias,N/D,N/D,M,79,Membro BP,False,3,5,1,3,5,3,0,4,2,5,3.1,31.0,82
+eduarda_zacarias,Eduarda Desihafela Daniel Zacarias,Eduarda Zacarias,N/D,N/D,F,81,Membro BP,False,3,5,1,3,5,3,0,4,2,5,3.1,31.0,83
+aniceto_emílio,Aniceto da Fonseca Emílio Pedro,Aniceto Emílio,N/D,N/D,M,82,Membro BP,False,3,5,1,3,5,3,0,4,2,5,3.1,31.0,84
+josefina_diakité,Josefina Perpétua Pires Domingos Diakité,Josefina Diakité,N/D,N/D,F,83,Membro BP,False,3,5,1,3,5,3,0,4,2,5,3.1,31.0,85
+maria_nelumba,Maria Antónia Nelumba,Maria Nelumba,N/D,N/D,F,84,Membro BP,False,3,5,1,3,5,3,0,4,2,5,3.1,31.0,86
+maria_esperança,Maria Esperança dos Santos,Maria Esperança,N/D,N/D,F,85,Membro BP,False,3,5,1,3,5,3,0,4,2,5,3.1,31.0,87
+maria_tchipalavela,Maria João Francisco Tchipalavela,Maria Tchipalavela,N/D,N/D,F,86,Membro BP,False,3,5,1,3,5,3,0,4,2,5,3.1,31.0,88
+narciso_benedito,Narciso Damásio dos Santos Benedito,Narciso Benedito,N/D,N/D,M,87,Membro BP,False,3,5,1,3,5,3,0,4,2,5,3.1,31.0,89
+leonor_garibalde,Leonor da Silva Garibalde,Leonor Garibalde,N/D,N/D,F,88,Membro BP,False,3,5,1,3,5,3,0,4,2,5,3.1,31.0,90
+maria_piedade,Maria Piedade de Jesus,Maria Piedade,N/D,N/D,F,89,Membro BP,False,3,5,1,3,5,3,0,4,2,5,3.1,31.0,91
+maria_cavungo,Maria Fernanda Cavungo,Maria Cavungo,N/D,N/D,F,90,Membro BP,False,3,5,1,3,5,3,0,4,2,5,3.1,31.0,92
+ruth_mendes,Ruth Mendes,Ruth Mendes,N/D,N/D,F,91,Membro BP,False,3,5,1,3,5,3,0,4,2,5,3.1,31.0,93
+catarina_domingos,Catarina Pedro Domingos,Catarina Domingos,N/D,N/D,F,92,Membro BP,False,3,5,1,3,5,3,0,4,2,5,3.1,31.0,94
+deolinda_vilarinho,Deolinda Odia Paulo Satula Vilarinho,Deolinda Vilarinho,N/D,N/D,F,93,Membro BP,False,3,5,1,3,5,3,0,4,2,5,3.1,31.0,95
+josefina_gomes,Josefina Ndesipewa Gomes,Josefina Gomes,N/D,N/D,F,95,Membro BP,False,3,5,1,3,5,3,0,4,2,5,3.1,31.0,96
+djamila_prata,Djamila Huguet da Silva de Almeida Prata,Djamila Prata,N/D,N/D,F,96,Membro BP,False,3,5,1,3,5,3,0,4,2,5,3.1,31.0,97
+esperança_pembele,Esperança Luzia Jackon Pembele,Esperança Pembele,N/D,N/D,F,97,Membro BP,False,3,5,1,3,5,3,0,4,2,5,3.1,31.0,98
+evandra_mingas,Evandra Luisa de Jesus Martins Mingas,Evandra Mingas,N/D,N/D,F,98,Membro BP,False,3,5,1,3,5,3,0,4,2,5,3.1,31.0,99
+helena_marciado,Helena Berta Buco Vando Marciado,Helena Marciado,N/D,N/D,F,99,Membro BP,False,3,5,1,3,5,3,0,4,2,5,3.1,31.0,100
+suzana_de_melo,Suzana Augusta de Melo,Suzana de Melo,N/D,N/D,F,100,Membro BP,False,3,5,1,3,5,3,0,4,2,5,3.1,31.0,101
+luciana_cachiangue,Luciana Mona Cachiangue,Luciana Cachiangue,N/D,N/D,F,101,Membro BP,False,3,5,1,3,5,3,0,4,2,5,3.1,31.0,102

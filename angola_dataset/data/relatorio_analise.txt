@@ -1,0 +1,125 @@
+ANGOLA SUCCESSION DATASET — RELATÓRIO DE ANÁLISE
+============================================================
+
+RANKING FINAL (score ponderado 0-100)
+----------------------------------------
+  #1  Manuel Homem                   72.0
+  #2  Francisco Furtado              72.0
+  #3  Mara Quiosa                    68.0
+  #4  Adão de Almeida                68.0
+  #5  Eugénio Laborinho              65.0
+  #6  Vera Daves                     62.0
+  #7  Carlos Feijó                   59.0
+  #8  Nunes Júnior                   58.0
+  #9  Ana Dias Lourenço              58.0
+  #10  Paulo Pombolo                  56.0
+  #11  Rui Falcão Andrade             56.0
+  #12  Joana Lina                     55.0
+  #13  Tete António                   55.0
+  #14  Manuel Augusto                 55.0
+  #15  Bornito de Sousa               54.0
+  #16  Sílvia Lutucuta                54.0
+  #17  Pitra da Costa Neto            51.0
+  #18  Carolina Cerqueira             51.0
+  #19  Mpinda Simão                   51.0
+  #20  Archer Mangueira               51.0
+  #21  Esteves Hilário                51.0
+  #22  José C. da Rocha               50.0
+  #23  Gonçalves Muandumba            49.0
+  #24  João Liberdade                 49.0
+  #25  Nádia Monteiro                 49.0
+  #26  Fernando Miala                 49.0
+  #27  Fernando Nandó                 48.0
+  #28  Pedro Morais Neto              48.0
+  #29  João Martins (Jú)              47.0
+  #30  Mário Sequeira                 46.0
+  #31  Loti Nolika                    46.0
+  #32  Mário P. Andrade               45.0
+  #33  Pedro Sebastião Teta           45.0
+  #34  Dolina Tchinhama               44.0
+  #35  Ângela Bragança                44.0
+  #36  Idalina Valente                44.0
+  #37  Justino Capapinha              44.0
+  #38  Ernesto Muangala               43.0
+  #39  Irene Neto                     41.0
+  #40  Jorge Dombolo                  41.0
+  #41  Ana Paula Sacramento           40.0
+  #42  Joaquim Reis Jr.               40.0
+  #43  Maricel Capamma                37.0
+  #44  Carla Ribeiro                  37.0
+  #45  Bento Bento                    35.0
+  #46  Américo Cuononoca              31.0
+  #47  Ana Celeste Januário           31.0
+  #48  Daniel Félix Neto              31.0
+  #49  Crispiniano Santos             31.0
+  #50  Dionísio da Fonseca            31.0
+  #51  Emília Carlota Dias            31.0
+  #52  Isaac dos Anjos                31.0
+  #53  Joana Tomás                    31.0
+  #54  João Diogo Gaspar              31.0
+  #55  Luís Fonseca Nunes             31.0
+  #56  Manuel Pedro Chaves            31.0
+  #57  Marcos Nhunga                  31.0
+  #58  Marcy Lopes                    31.0
+  #59  Antonieta Sabinda              31.0
+  #60  Norberto Kuata                 31.0
+  #61  Paula Coelho                   31.0
+  #62  Pedro Mutindi                  31.0
+  #63  Pereira Alfredo                31.0
+  #64  Virgílio Tyova                 31.0
+  #65  Virgílio F. Pereira            31.0
+  #66  Adriano Mendes                 31.0
+  #67  Nuno Mahapi Dala               31.0
+  #68  Gerdina Didalewa               31.0
+  #69  José Martins                   31.0
+  #70  Aia-Eza Troso                  31.0
+  #71  Ana Paula Chantre              31.0
+  #72  Ângela Diogo                   31.0
+  #73  Angélica Inhungo               31.0
+  #74  Carmen VanDunem                31.0
+  #75  Celeste Adolfo                 31.0
+  #76  Dalva Allen                    31.0
+  #77  Elizabeth Chiwissa             31.0
+  #78  Emília Panjimba                31.0
+  #79  Esmeralda Mendonça             31.0
+  #80  Esperança da Costa             31.0
+  #81  Hemingarda Fernandes           31.0
+  #82  Gildo Matias                   31.0
+  #83  Eduarda Zacarias               31.0
+  #84  Aniceto Emílio                 31.0
+  #85  Josefina Diakité               31.0
+  #86  Maria Nelumba                  31.0
+  #87  Maria Esperança                31.0
+  #88  Maria Tchipalavela             31.0
+  #89  Narciso Benedito               31.0
+  #90  Leonor Garibalde               31.0
+  #91  Maria Piedade                  31.0
+  #92  Maria Cavungo                  31.0
+  #93  Ruth Mendes                    31.0
+  #94  Catarina Domingos              31.0
+  #95  Deolinda Vilarinho             31.0
+  #96  Josefina Gomes                 31.0
+  #97  Djamila Prata                  31.0
+  #98  Esperança Pembele              31.0
+  #99  Evandra Mingas                 31.0
+  #100  Helena Marciado                31.0
+  #101  Suzana de Melo                 31.0
+  #102  Luciana Cachiangue             31.0
+
+CARACTERÍSTICAS DO CANDIDATO LÍDER
+----------------------------------------
+  nome: Manuel Gomes da Conceição Homem
+  nascimento: 1979
+  cargo_funcao: Ministro do Interior (desde 2024)
+  tem_score_detalhado: True
+
+PADRÃO EXTRAÍDO DOS CASOS COMPARADOS
+----------------------------------------
+  Carteira Segurança              presente em 50% dos casos
+  Capital Militar                 presente em 50% dos casos
+  Liderança Partido               presente em 92% dos casos
+  Era VP antes                    presente em 50% dos casos
+
+============================================================
+Fontes: MPLA.ao, Jornal ÉME, Wikipedia PT/EN, VOA Português
+governo.gov.ao, IMF Connect, World Bank Live

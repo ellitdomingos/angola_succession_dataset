@@ -1,0 +1,49 @@
+cff-version: 1.2.0
+title: "Angola Succession Dataset: Predictive Analysis of Presidential Succession in a Dominant-Party System"
+message: "If you use this dataset, please cite it using the metadata from this file."
+type: dataset
+authors:
+  - name: "Angola Succession Dataset Contributors"
+date-released: 2025-04-23
+version: "1.0.0"
+license: CC-BY-4.0
+url: "https://github.com/https://github.com/ellitdomingos/angola-succession-dataset"
+keywords:
+  - Angola
+  - MPLA
+  - presidential succession
+  - political science
+  - dominant-party system
+  - Bureau Politico
+  - comparative politics
+  - Africa
+abstract: >-
+  Dataset of biographical and political variables for 8 members of
+  the MPLA Bureau Politico in Angola, scored across 10 dimensions
+  relevant to presidential succession. Includes 12 international
+  comparative cases from dominant-party and authoritarian systems.
+  Variables cover institutional position, party seniority, security
+  portfolio, presidential proximity, military capital, academic
+  credentials, international profile, and age fitness.
+references:
+  - type: article
+    authors:
+      - family-names: Brownlee
+        given-names: Jason
+    title: "Hereditary Succession in Modern Autocracies"
+    journal: "World Politics"
+    year: 2007
+  - type: book
+    authors:
+      - family-names: Levitsky
+        given-names: Steven
+      - family-names: Way
+        given-names: Lucan A.
+    title: "Competitive Authoritarianism: Hybrid Regimes After the Cold War"
+    year: 2010
+  - type: book
+    authors:
+      - family-names: Magaloni
+        given-names: Beatriz
+    title: "Voting for Autocracy: Hegemonic Party Survival and its Demise in Mexico"
+    year: 2006
